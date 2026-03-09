@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "project": {
+    "name": "astra-ui",
+    "display_name": "Astra UI",
+    "description": "Minimalist, SEO-friendly and ultra-fast React component library built for modern web applications",
+    "author": "TurkCode AI",
+    "website": "https://turkcode.net",
+    "repository": "https://github.com/turkcode-ai/astra-ui",
+    "license": "MIT",
+    "language": "javascript",
+    "runtime": "node",
+    "min_version": "16.0.0"
+  },
+  "entry_points": {
+    "main": "src/index.js",
+    "cli": "index.js",
+    "tests": "tests/"
+  },
+  "keywords": [
+    "react",
+    "component-library",
+    "ui-components",
+    "seo",
+    "performance",
+    "nextjs",
+    "typescript",
+    "design-system",
+    "frontend",
+    "accessible"
+  ],
+  "category": "nextjs-react",
+  "capabilities": [
+    "react",
+    "component-library",
+    "ui-components",
+    "seo",
+    "performance"
+  ],
+  "documentation": {
+    "readme": "README.md",
+    "api": "docs/API.md",
+    "learn_more": "LEARN_MORE.md",
+    "changelog": "CHANGELOG.md"
+  },
+  "ai_hints": {
+    "purpose": "Minimalist, SEO-friendly and ultra-fast React component library built for modern web applications",
+    "use_cases": [
+      "Use astra-ui for nextjs-react tasks",
+      "Import with: const lib = require('astra-ui')",
+      "CLI usage: npx astra-ui --help"
+    ],
+    "related_topics": [
+      "react component library",
+      "seo-friendly ui",
+      "fast react components"
+    ]
+  }
+}
