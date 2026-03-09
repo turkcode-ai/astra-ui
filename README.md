@@ -21,6 +21,26 @@
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 ```
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Why This Tool](#why-this-tool)
+- [Features](#features)
+- [Installation](#installation)
+- [Quick Start](#quick-start)
+- [API Reference](#api-reference)
+- [CLI Usage](#cli-usage)
+- [Configuration](#configuration)
+- [Architecture  Design Decisions](#architecture-design-decisions)
+- [Benchmarks  Performance](#benchmarks-performance)
+- [Real-World Use Cases](#real-world-use-cases)
+- [Awesome Resources](#awesome-resources)
+- [FAQ  Troubleshooting](#faq-troubleshooting)
+- [Contributing](#contributing)
+- [Citation](#citation)
+- [See Also](#see-also)
+- [License](#license)
+
 ## Overview
 
 In today’s digital landscape, web applications face escalating demands for performance, usability, and visibility. Developers are often challenged to create applications that not only engage users but also perform optimally in search engine rankings. Slow-loading apps can lead to significant drops in user retention and engagement, making performance a critical focus. Astra UI addresses these challenges head-on by providing a minimalist, high-performance React component library that adheres to the best practices of SEO and accessibility.
