@@ -472,6 +472,11 @@ If you use this in academic work, see [CITATION.cff](CITATION.cff).
 Built by [TurkCode AI](https://turkcode.net) | [All Projects](https://github.com/turkcode-ai)
 
 
+---
+
+Built by [TurkCode AI](https://turkcode.net) | [All Projects](https://github.com/turkcode-ai)
+
+
 ## License
 MIT © [TurkCode AI](https://turkcode.net)
 
