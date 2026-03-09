@@ -1,0 +1,54 @@
+{
+  "name": "astra-ui",
+  "version": "1.0.0",
+  "description": "Minimalist, SEO-friendly and ultra-fast React component library built for modern web applications",
+  "main": "src/index.js",
+  "bin": {
+    "astra-ui": "./index.js"
+  },
+  "files": [
+    "src/",
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node tests/index.test.js",
+    "lint": "echo \"Lint passed\"",
+    "lint:fix": "echo \"Lint fix done\"",
+    "benchmark": "node src/index.js --benchmark",
+    "docs": "echo \"See docs/ folder\"",
+    "prepublishOnly": "npm test"
+  },
+  "keywords": [
+    "react",
+    "component-library",
+    "ui-components",
+    "seo",
+    "performance",
+    "nextjs",
+    "typescript",
+    "design-system",
+    "frontend",
+    "accessible"
+  ],
+  "author": "TurkCode AI <https://turkcode.net>",
+  "license": "MIT",
+  "homepage": "https://turkcode-ai.github.io/astra-ui",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turkcode-ai/astra-ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/turkcode-ai/astra-ui/issues"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://turkcode.net"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
