@@ -443,6 +443,15 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 ## Citation
 If you use this in academic work, see [CITATION.cff](CITATION.cff).
 
+## See Also
+
+- [**ChatGPT Prompt Engineering Toolkit**](https://github.com/turkcode-ai/chatgpt-prompt-engineering) - Advanced prompt engineering framework with templates, chain-of-thought patterns, and automated prompt optimization for ChatGPT
+
+---
+
+Built by [TurkCode AI](https://turkcode.net) | [All Projects](https://github.com/turkcode-ai)
+
+
 ## License
 MIT © [TurkCode AI](https://turkcode.net)
 
